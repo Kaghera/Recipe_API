@@ -25,12 +25,11 @@ We don’t always have the luxury of knowing exactly what we want to cook.  We�
 
 
 ## User Story
-As a USER, I want to figure out what I can make with things inside my fridge.
-As a USER, I don’t want to spend a lot of time doing research.
-When I use this application, I can find recipes based on what I have in my fridge.
-As a USER,  I am  able to dictate how many different recipes I would like to see.
-I can also retain the recipes I have searched on the page.
-I am able to restart my search by clearing everything with a button. 
+**1.** As a USER, I want to figure out what I can cook with things inside my fridge.
+**2.** As a USER, I don’t want to spend a lot of time doing research.
+**3.** When I am bored of ingredients I can find new recipes for them. 
+**4.** As a USER,  I am  able to dictate how many different recipes I would like to see.
+
 
 
 
